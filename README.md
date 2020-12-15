@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Frost's github stats](https://github-readme-stats.vercel.app/api?username=First-frost)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="200">
 
