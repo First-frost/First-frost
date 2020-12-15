@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="200">
 
 #### About me
 - 🤔 I’m a unprofessional programer.
@@ -21,6 +20,7 @@ Here are some ideas to get you started:
 
 [![Frost's github stats](https://github-readme-stats.vercel.app/api?username=First-frost)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="200">
 
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
