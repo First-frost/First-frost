@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="100">
+<img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="200">
 
 #### About me
 - 🤔 I’m a unprofessional programer.
