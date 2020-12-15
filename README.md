@@ -2,6 +2,7 @@
 
 #### About me
 - 🤔 I’m a unprofessional programer.
+- 🌱 I’m currently learning Kubernetes and Golang.
 - 🎮 A FPS and MOBA games lover , you can also find me on [Steam](https://steamcommunity.com/profiles/76561198122523146/).
 
 <!--
