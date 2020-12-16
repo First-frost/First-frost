@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1976 hrs 31 mins
-🦾 Cyberpunk 2077                   🕘 7 hrs 50 mins
+🦾 Cyberpunk 2077                   🕘 8 hrs 11 mins
 🎮 Salt and Sanctuary               🕘 21 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
