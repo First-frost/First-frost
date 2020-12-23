@@ -3,7 +3,7 @@
 #### About me
 - 🤔 I’m a unprofessional programer.
 - 🌱 I’m currently learning Kubernetes and Golang.
-- 🎮 A FPS and MOBA games lover
+- 🎮 A FPS and MOBA games lover.
 
 <!--
 **First-frost/First-frost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
