@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ```text
 🦾 Cyberpunk 2077                   🕘 20 hrs 20 mins
 ⚔️ Dota 2                           🕘 1995 hrs 57 mins
-🎮 Salt and Sanctuary               🕘 21 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
