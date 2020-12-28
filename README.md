@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2011 hrs 52 mins
+⚔️ Dota 2                           🕘 2012 hrs 47 mins
 🦾 Cyberpunk 2077                   🕘 20 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
