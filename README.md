@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 2147 hrs 45 mins
+⚔️ Dota 2                           🕘 2148 hrs 45 mins
 🎮 Warframe                         🕘 723 hrs 15 mins
 🔫 Counter-Strike: Global Offensive 🕘 209 hrs 43 mins
 💻 Wallpaper Engine                 🕘 96 hrs 7 mins
