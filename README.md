@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🎮 Warframe                         🕘 723 hrs 15 mins
 🔫 Counter-Strike: Global Offensive 🕘 209 hrs 43 mins
 💻 Wallpaper Engine                 🕘 96 hrs 7 mins
-🎮 Dyson Sphere Program             🕘 69 hrs 14 mins
+🎮 Dyson Sphere Program             🕘 70 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
