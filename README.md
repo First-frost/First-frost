@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ⚔️ Dota 2                           🕘 2153 hrs 32 mins
 🎮 Warframe                         🕘 723 hrs 15 mins
 🔫 Counter-Strike: Global Offensive 🕘 209 hrs 43 mins
-🎮 Dyson Sphere Program             🕘 103 hrs 0 mins
+🎮 Dyson Sphere Program             🕘 104 hrs 1 mins
 💻 Wallpaper Engine                 🕘 96 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
