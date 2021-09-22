@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/First-frost/First-frost/blob/main/dance.gif" width="200">
 
-<table>
+<!-- <table>
 <tr>
 <td valign="top" width="50%">
 
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+ -->
