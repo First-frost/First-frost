@@ -2,7 +2,6 @@
 
 #### About me
 - 🤔 I’m a unprofessional programer.
-- 🌱 I’m currently learning Golang.
 - 🎮 A FPS and MOBA games lover.
 
 <!--
