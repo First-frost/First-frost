@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://github.com/First-frost/First-frost/blob/main/dance.gif)
-![image]()
+![image](https://github.com/First-frost/First-frost/blob/main/dance.gif)
 [https://github.com/First-frost/First-frost/blob/main/dance.gif](https://github.com/First-frost/First-frost/blob/main/dance.gif)
 
 <!--
