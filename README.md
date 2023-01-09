@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![image](https://github.com/First-frost/First-frost/blob/main/dance.gif)
-
+(https://github.com/First-frost/First-frost/blob/main/dance.gif)
+![image]()
+[https://github.com/First-frost/First-frost/blob/main/dance.gif](https://github.com/First-frost/First-frost/blob/main/dance.gif)
 
 <!--
 <table>
