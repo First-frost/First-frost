@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![image](https://github.com/First-frost/First-frost/raw/main/dance.gif)
+![image](https://github.com/First-frost/First-frost/blob/main/dance.gif)
 
 
 <!--
