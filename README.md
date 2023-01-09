@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](./dance.gif)
+<img src="./dance.gif" width="200">
 
 <!--
 <table>
