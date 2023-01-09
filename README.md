@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://github.com/First-frost/First-frost/blob/main/dance.gif)
-[https://github.com/First-frost/First-frost/blob/main/dance.gif](https://github.com/First-frost/First-frost/blob/main/dance.gif)
 
 <!--
 <table>
