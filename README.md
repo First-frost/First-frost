@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.iqiq.io/First-frost/First-frost/main/dance.gif" width="200">
+<img src="./dance.gif" width="200">
 
 <!--
 <table>
