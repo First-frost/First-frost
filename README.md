@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/First-frost/First-frost/raw/main/dance.gif" width="200">
+![image](https://github.com/First-frost/First-frost/raw/main/dance.gif)
+
 
 <!--
 <table>
