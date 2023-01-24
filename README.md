@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 <!-- steam-box start -->
- 
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
- 
 ```text
 ⚔️ Dota 2                           🕘 2276 hrs 31 mins
 🎮 Warframe                         🕘 750 hrs 30 mins
@@ -34,7 +32,6 @@ Here are some ideas to get you started:
 🎮 Dyson Sphere Program             🕘 185 hrs 37 mins
 💻 Wallpaper Engine                 🕘 112 hrs 4 mins
 ```
- 
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 [powered by steam-box](https://github.com/YouEclipse/steam-box)
