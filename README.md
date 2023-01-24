@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <img src="./dance.gif" width="200">
 
-<!--
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -38,6 +37,6 @@ Here are some ideas to get you started:
 
 </td>
 </tr>
-</table>-->
+</table>
 
  
