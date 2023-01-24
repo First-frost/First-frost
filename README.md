@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 2153 hrs 32 mins
-🎮 Warframe                         🕘 723 hrs 15 mins
-🔫 Counter-Strike: Global Offensive 🕘 209 hrs 43 mins
-🎮 Dyson Sphere Program             🕘 185 hrs 29 mins
-💻 Wallpaper Engine                 🕘 96 hrs 27 mins
+⚔️ Dota 2                           🕘 2276 hrs 31 mins
+🎮 Warframe                         🕘 750 hrs 30 mins
+🔫 Counter-Strike: Global Offensive 🕘 212 hrs 30 mins
+🎮 Dyson Sphere Program             🕘 185 hrs 37 mins
+💻 Wallpaper Engine                 🕘 112 hrs 4 mins
 ```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 [powered by steam-box](https://github.com/YouEclipse/steam-box)
 </td>
