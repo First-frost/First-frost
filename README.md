@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 <!-- steam-box start -->
+ 
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
  
 ```text
