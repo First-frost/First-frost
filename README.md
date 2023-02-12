@@ -18,7 +18,7 @@
 🎮 Warframe                         🕘 750 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 212 hrs 30 mins
 🎮 Dyson Sphere Program             🕘 185 hrs 37 mins
-💻 Wallpaper Engine                 🕘 114 hrs 51 mins
+💻 Wallpaper Engine                 🕘 115 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
