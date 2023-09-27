@@ -17,7 +17,7 @@
 ⚔️ Dota 2                           🕘 2281 hrs 42 mins
 🎮 Warframe                         🕘 857 hrs 32 mins
 🎮 Dyson Sphere Program             🕘 332 hrs 23 mins
-🔫 Counter-Strike: Global Offensive 🕘 212 hrs 30 mins
+🔫 Counter-Strike 2                 🕘 212 hrs 30 mins
 💻 Wallpaper Engine                 🕘 115 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
