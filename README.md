@@ -15,7 +15,7 @@
 #### <a href="https://gist.github.com/6e7ccf4346147a72f0da789476bb5031" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 2281 hrs 42 mins
-🎮 Warframe                         🕘 1974 hrs 53 mins
+🎮 Warframe                         🕘 1976 hrs 31 mins
 🎮 Dyson Sphere Program             🕘 332 hrs 23 mins
 🔫 Counter-Strike 2                 🕘 212 hrs 30 mins
 💻 Wallpaper Engine                 🕘 117 hrs 10 mins
