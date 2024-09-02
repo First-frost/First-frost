@@ -18,7 +18,7 @@
 🎮 Warframe                         🕘 2022 hrs 59 mins
 🎮 Dyson Sphere Program             🕘 332 hrs 23 mins
 🔫 Counter-Strike 2                 🕘 212 hrs 30 mins
-💻 Wallpaper Engine                 🕘 124 hrs 48 mins
+💻 Wallpaper Engine                 🕘 125 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
